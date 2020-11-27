@@ -1,0 +1,5 @@
+2020-11-27
+git restore <file>撤销本此修改（没有进行add）
+git reset HEAD <file>重置暂存区，再进行restore操作可以撤销add过的修改
+git restore --staged<file>恢复误删的文件
+git rm <file>删除文件
