@@ -15,3 +15,8 @@ git restore name.txt
 git add name.txt
 git commi -m "add a file"
 git push origin master
+创建分支并切换为新分支git checkout -b <name>
+查看已有分支git branch
+切换分支git checkout <name>
+合并某分支到当前分支git merge <name>
+删除分支git branch -d <name>
