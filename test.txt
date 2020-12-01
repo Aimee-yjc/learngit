@@ -1,2 +1,6 @@
 I am a new branch dev.
+<<<<<<< HEAD
 I am master.
+=======
+I am feature1.
+>>>>>>> feature1
