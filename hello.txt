@@ -11,3 +11,7 @@ git reset --hard <commit id>
 git status(查看状态)
 git restore --staged <name.txt>
 git restore name.txt
+本地修改文件后更新github
+git add name.txt
+git commi -m "add a file"
+git push origin master
